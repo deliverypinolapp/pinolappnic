@@ -1,0 +1,1 @@
+module.exports = { swcMinify: false }
